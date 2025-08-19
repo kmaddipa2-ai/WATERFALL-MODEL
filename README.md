@@ -3,9 +3,9 @@
 
 This project demonstrates **Weather Modeling** using a **quadratic function**:  
 
-\[
-f(t) = a  t^2 + b t + c
-\]
+$$
+f(t) = a t^2 + b t + c
+$$
 
 The software is developed following the **Waterfall Model** phases:  
 1. Requirement Analysis  
